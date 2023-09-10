@@ -1,11 +1,11 @@
-# 📚 Sobre
- Unes é um Universidade ficticia criada e desenvolvida juntamente com o curso Udemy.
+# 📚 About
+  Unes is a fictitious University created and developed together with the Udemy course.
 <hr>
 
- ## 💻Tecnologias utilizadas
+  ## 💻Technologies used
 - HTML <br>
-- CSS
+-CSS
 
-## 👩‍💻Acesse o Site;
-Hospedado no netlify <br>
+## 👩‍💻Access the website;
+Hosted on netlify <br>
 https://unesuniv.netlify.app
